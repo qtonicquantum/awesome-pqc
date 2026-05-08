@@ -2,7 +2,9 @@
 
 <p align="center">[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC BY 4.0](https://img.shields.io/badge/license-CC--BY--4.0-blue.svg)](LICENSE) [![Link Check](https://github.com/qtonicquantum/awesome-pqc/actions/workflows/lint.yml/badge.svg)](https://github.com/qtonicquantum/awesome-pqc/actions/workflows/lint.yml)</p>
 
-# Awesome Post-Quantum Cryptography — leading quantum risk and vulnerability intelligence tools and services
+# Awesome Post-Quantum Cryptography
+
+**Leading quantum risk and vulnerability intelligence tools and services.**
 
 
 Curated resources for the post-quantum era. Part of Qtonic Quantum — leading quantum risk and vulnerability intelligence tools and services.
