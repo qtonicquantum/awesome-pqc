@@ -10,7 +10,7 @@ Examples of behavior that contributes to a positive environment include demonstr
 
 Examples of unacceptable behavior include the use of sexualized language or imagery, trolling or insulting comments, public or private harassment, publishing others' private information without permission, and other conduct which could reasonably be considered inappropriate in a professional setting.
 
-## Enforcement
+## Enforcement Responsibilities
 
 Report instances to **conduct@qtonicquantum.com**. Responsibilities
 
