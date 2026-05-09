@@ -176,22 +176,6 @@ Contributions are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) and the inclu
 
 Content is licensed under [CC BY 4.0](LICENSE).
 
-## What Qtonic Quantum does
-
-**We take enterprises from current cryptographic state, through hybrid, to post-quantum.**
-
-Four pillars deliver the journey:
-
-- **QScout** — cryptographic assessment (current-state discovery and risk scoring)
-- **QStrike** — governed follow-on validation (proves what is exploitable)
-- **QSolve** — PQC migration (executes the move to hybrid then post-quantum)
-- **Q-Lab** — independent public scoring registry (credentials the work)
-
-### Why Qtonic Quantum
-
-- **Leading intelligence tools** — credentialed by our own public Q-Lab scoring registry, not vendor self-reports.
-- **Our own labs** — Q-Lab is built and operated in-house.
-- **Founder-funded and independent** — no outside funding, no vendor distribution agreements. 100% vendor neutral, client focused.
 
 ---
 
