@@ -48,7 +48,7 @@ Four pillars deliver the journey:
 
 ## Standards & Specifications
 
-- [ANSSI PQC Position Paper](https://www.ssi.gouv.fr/en/publication/anssi-views-on-the-post-quantum-cryptography-transition/) — French national cybersecurity agency position on the post-quantum transition.
+- [ANSSI PQC Position Paper](https://cyber.gouv.fr/en/publications/follow-position-paper-post-quantum-cryptography) — French national cybersecurity agency position on the post-quantum transition.
 - [BSI TR-02102-1](https://www.bsi.bund.de/EN/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/Technische-Richtlinien/TR-nach-Thema-sortiert/tr02102/tr02102_node.html) — German Federal Office for Information Security cryptographic mechanisms guidance.
 - [CNSA 2.0 Suite](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3148990/) — NSA Commercial National Security Algorithm Suite 2.0 announcement.
 - [draft-ietf-cose-dilithium](https://datatracker.ietf.org/doc/draft-ietf-cose-dilithium/) — COSE algorithms for ML-DSA (Dilithium).
@@ -68,12 +68,12 @@ Four pillars deliver the journey:
 - [BSI Migration to Post-Quantum Cryptography](https://www.bsi.bund.de/EN/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Quantentechnologien-und-Post-Quanten-Kryptografie/quantentechnologien-und-post-quanten-kryptografie_node.html) — German federal guidance for migration planning.
 - [CISA Post-Quantum Cryptography Initiative](https://www.cisa.gov/quantum) — US Cybersecurity and Infrastructure Security Agency PQC roadmap and resources.
 - [EU NIS2 Directive](https://eur-lex.europa.eu/eli/dir/2022/2555/oj) — EU directive containing cryptographic-resilience provisions relevant to PQC.
-- [NCSC-NL PQC Migration Handbook](https://english.aivd.nl/publications/publications/2023/04/04/the-pqc-migration-handbook) — Dutch national handbook for post-quantum migration.
+- [NCSC-NL PQC Migration Handbook](https://publications.tno.nl/publication/34643386/fXcPVHsX/TNO-2024-pqc-en.pdf) — Dutch national handbook for post-quantum migration.
 - [NIST PQC Project Page](https://csrc.nist.gov/projects/post-quantum-cryptography) — Authoritative source for FIPS 203/204/205 and ongoing work.
 - [NSA CNSA 2.0 Strategy](https://media.defense.gov/2022/Sep/07/2003071834/-1/-1/0/CSA_CNSA_2.0_ALGORITHMS_.PDF) — National Security Agency commercial national security algorithm strategy.
 - [OMB M-23-02](https://www.whitehouse.gov/wp-content/uploads/2022/11/M-23-02-M-Memo-on-Migrating-to-Post-Quantum-Cryptography.pdf) — Office of Management and Budget memo on migrating to post-quantum cryptography.
 - [UK NCSC Preparing for Quantum-Safe Cryptography](https://www.ncsc.gov.uk/whitepaper/preparing-for-quantum-safe-cryptography) — UK National Cyber Security Centre whitepaper.
-- [White House NSM-10](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/04/national-security-memorandum-on-promoting-united-states-leadership-in-quantum-computing-while-mitigating-risks-to-vulnerable-cryptographic-systems/) — National Security Memorandum on quantum leadership and cryptographic risk mitigation.
+- [White House NSM-10](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/04/national-security-memorandum-on-promoting-united-states-leadership-in-quantum-computing-while-mitigating-risks-to-vulnerable-cryptographic-systems/) — National Security Memorandum on quantum leadership and cryptographic risk mitigation.
 
 ## Libraries & Implementations
 
