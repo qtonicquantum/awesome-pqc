@@ -95,6 +95,7 @@ Four pillars deliver the journey:
 - [CycloneDX CLI](https://github.com/CycloneDX/cyclonedx-cli) — Command-line tool for working with CycloneDX SBOM and CBOM documents.
 - [nmap](https://nmap.org/) — Network scanner used for TLS posture checks; supports PQ-aware NSE scripts via the community.
 - [pqc-readiness-cli](https://github.com/qtonicquantum/pqc-readiness-cli) — Local cryptographic asset inventory CLI emitting CycloneDX 1.7 CBOM; by Qtonic Quantum.
+- [pqc-tools](https://github.com/quantakrypto/pqc-tools) - Open-source scanner and CycloneDX CBOM generator that finds quantum-vulnerable cryptography (RSA/ECDH/ECDSA/DH) in code and gives NIST ML-KEM/ML-DSA/SLH-DSA migration guidance. CLI, MCP server, and GitHub Action.
 - [Sandwich](https://github.com/sandbox-quantum/sandwich) — SandboxAQ open-source cryptographic API supporting PQ algorithms.
 - [ssllabs-scan](https://github.com/ssllabs/ssllabs-scan) — Qualys SSL Labs scanner used to assess TLS configurations.
 - [testssl.sh](https://testssl.sh/) — TLS/SSL testing tool covering cipher and protocol posture.
